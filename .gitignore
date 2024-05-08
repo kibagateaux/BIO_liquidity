@@ -2,3 +2,5 @@ broadcast/
 cache/
 out/
 __pycache__
+.hypothesis/
+*.env

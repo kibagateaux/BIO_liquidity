@@ -1,0 +1,126 @@
+{
+  "name": "bioconomy",
+  "timestamp": "2024-05-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pbs.twimg.com/profile_images/1785976030605312000/RfwCcgPn_400x400.jpg",
+  "keywords": ["biodao", "desci", "scifi"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+      "name": "Vita DAO",
+      "symbol": "VITA",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio1.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
+      "name": "Vita DAO",
+      "symbol": "VITA",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio1.png"
+    },
+
+
+    {
+      "chainId": 1,
+      "address": "0xA4fFdf3208F46898CE063e25c1C43056FA754739",
+      "name": "Athena DAO",
+      "symbol": "ATH",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio2.png"
+    },
+    {
+        "chainId": 10,
+        "address": "0xc62c9B7BE5d4E5D415F682b2331bfa5f0C8D061a",
+        "name": "Athena DAO",
+        "symbol": "ATH",
+        "decimals": 18,
+        "logoURI": "https://biodao.example.com/tokens/bio6.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x58D75a1c4477914f9a98A8708fEaeD1DbE40b8a3",
+        "name": "Athena DAO",
+        "symbol": "ATH",
+        "decimals": 18,
+        "logoURI": "https://biodao.example.com/tokens/bio7.png"
+    },
+
+    {
+      "chainId": 1,
+      "address": "0x761A3557184cbC07b7493da0661c41177b2f97fA",
+      "name": "Valley DAO",
+      "symbol": "GROW",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio3.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xc871cCf95024eFa2CbcE69B5B775D2a1DcF49c1B",
+      "name": "Valley DAO",
+      "symbol": "GROW",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio3.png"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
+      "name": "Valley DAO",
+      "symbol": "GROW",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio3.png"
+    },
+
+
+    {
+      "chainId": 1,
+      "address": "0x9Ce115f0341ae5daBC8B477b74E83db2018A6f42",
+      "name": "Hair DAO",
+      "symbol": "HAIR",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio4.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x5465145a47260D5E715733997333A175D97285Bb",
+      "name": "Hair DAO",
+      "symbol": "HAIR",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio4.png"
+    },
+
+    {
+      "chainId": 1,
+      "address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b ",
+      "name": "Cerebrum DAO",
+      "symbol": "NEURON",
+      "decimals": 18,
+      "logoURI": "https://biodao.example.com/tokens/bio5.png"
+    },
+
+
+    {
+        "chainId":1,
+        "address":"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "name":"WrappedEther",
+        "symbol":"WETH",
+        "decimals":18,
+        "logoURI":"https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+        "chainId":1,
+        "address":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "name":"USDCoin",
+        "symbol":"USDC",
+        "decimals":6,
+        "logoURI":"https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+    }
+  ]
+}
